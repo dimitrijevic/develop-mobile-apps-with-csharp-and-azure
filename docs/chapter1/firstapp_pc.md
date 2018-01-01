@@ -1176,7 +1176,7 @@ If you have got through the entire process outlined in this Chapter and built th
 
 Fortunately, once these are set up, it's likely that they will continue working and you won't have to think too much about them again. The Android and iOS build tools and simulators will just work.
 
-If you would rather develop code on your mac, the next sectiom is for you - it gets into the nitty gritty of developing the exact same app, but using Visual Studio for Mac instead.
+If you would rather develop code on your mac, the next section is for you - it gets into the nitty gritty of developing the exact same app, but using Visual Studio for Mac instead.
 
 The following 7 chapters each take one aspect of the cloud services that can be provided to mobile apps and explores it in detail, using an Azure Mobile App as a beginning. You can jump around at this point, but be aware that we expect you to cover these topics in order. If you do the data chapter before covering authentication, it's likely you will have missed important functionality in your app to complete the work.
 
